@@ -1,4 +1,5 @@
-This project is about A collection of miniatures : main collection https://www.minisgallery.com/index.php
+This project is about A collection of miniatures : main collection https://www.minisgallery.com/index.php 
+Create using React, Ruby ,Sinatra and Active Record
 
 backend repository : https://github.com/elizabethkerubo02/phase-3-sinatra-react-project
 
