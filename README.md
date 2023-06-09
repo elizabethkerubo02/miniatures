@@ -1,6 +1,6 @@
 This project is about A collection of miniatures : main collection https://www.minisgallery.com/index.php
 
-backend repository : https://github.com/elizabethkerubo02/miniatures-react-frontend
+backend repository : https://github.com/elizabethkerubo02/phase-3-sinatra-react-project
 
 To start the the project:
  NOTE : CHOOSE MASTER BRANCH TO ACCESS ALL CODES.
