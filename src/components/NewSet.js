@@ -6,7 +6,7 @@ function NewSet({ sets, setSets }) {
     const [ formData, setFormData ] = useState({
         name: "",
         year: ""
-    });
+    }); 
 
     const handleSubmit = e => {
         e.preventDefault();

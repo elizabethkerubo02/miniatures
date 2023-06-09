@@ -13,7 +13,7 @@ function Sets({ sets }) {
                 </Link>
             </div>
             <div className="set-list">{setCards()}</div>
-        </div>
+        </div> 
     )
 }
 

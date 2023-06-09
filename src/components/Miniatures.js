@@ -11,7 +11,7 @@ function Miniatures({ miniatures }) {
             </div>
             <div className="card-grid">{miniatureCards()}</div>
         </div>
-    )
+    ) 
 }
 
 export default Miniatures;

@@ -9,7 +9,7 @@ function Home() {
         .then(res => res.json())
         .then(data => setNewMinis(data))
       }, [])
-
+ 
     const miniatureCards = newMinis.map((miniature, index)  => <MiniatureCard key={ index } miniature={ miniature }/>)
 
     return (

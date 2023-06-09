@@ -19,7 +19,7 @@ function MiniaturePage({ miniatures, setMiniatures, sets, setSets }) {
         const updatedSet = {...set, miniatures: [...(set.miniatures.filter(mini => mini.id !=id))]};
         setSets(sets.map(s => s.id===updatedSet.id ? updatedSet : s));
     }
-
+ 
   return (
     <div className="mini-container">
         <div className="mini-image">

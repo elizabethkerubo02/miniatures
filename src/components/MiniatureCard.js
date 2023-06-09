@@ -12,6 +12,6 @@ function MiniatureCard({ miniature }) {
         </div>
     </Link>
   )
-}
+} 
 
 export default MiniatureCard

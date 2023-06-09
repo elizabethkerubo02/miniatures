@@ -10,7 +10,7 @@ function NewMiniature({ miniatures, setMiniatures, sets, setSets }) {
         rarity: "",
         size: "",
         units: "",
-        img_url: ""
+        img_url: "" 
     });
 
     const handleSubmit = e => {

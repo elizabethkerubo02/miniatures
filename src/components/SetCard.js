@@ -9,4 +9,4 @@ function SetCard({ set }) {
   )
 }
 
-export default SetCard
+export default SetCard;

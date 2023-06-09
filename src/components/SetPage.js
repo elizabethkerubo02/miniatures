@@ -12,7 +12,7 @@ function SetPage({ sets, setSets, miniatures, setMiniatures }) {
     //     fetch(`http://localhost:9292/miniature_sets/${id}`)
     //     .then(res => res.json())
     //     .then(data => setSet(data))
-    // }, [])
+    // }, []) 
     
     const miniatureCards = set?.miniatures?.map((miniature, index)  => <MiniatureCard key={ index } miniature={ miniature }/>)
 

@@ -9,7 +9,7 @@ function Navigation() {
             <NavLink to="/sets">SETS</NavLink>
             <NavLink to="/miniatures">MINIATURES</NavLink>
         </nav>
-    )
+    ) 
 }
 
 export default Navigation;

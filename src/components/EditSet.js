@@ -8,7 +8,7 @@ function EditSet({ sets, setSets }) {
     const [ formData, setFormData ] = useState({
         name: "",
         year: ""
-    });
+    }); 
 
     useEffect(() => {
         setFormData(set);

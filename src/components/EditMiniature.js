@@ -9,7 +9,7 @@ function EditMiniature({ miniatures, setMiniatures, sets, setSets }) {
     const [ formData, setFormData ] = useState({
         name: "",
         rarity: "",
-        size: "",
+        size: "", 
         units: "",
         img_url: ""
     });

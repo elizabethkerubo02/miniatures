@@ -1,3 +1,15 @@
+This project is about A collection of miniatures : main collection https://www.minisgallery.com/index.php
+
+backend repository : https://github.com/elizabethkerubo02/miniatures-react-frontend
+
+To start the the project:
+1. clone ther repo first
+2. npm install
+3. npm start
+
+
+
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +17,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+to start the the project:
+1. clone ther repo first
+2. npm install
+3. npm start
+
 
 ### `npm start`
 
