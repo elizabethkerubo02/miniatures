@@ -3,6 +3,7 @@ This project is about A collection of miniatures : main collection https://www.m
 backend repository : https://github.com/elizabethkerubo02/miniatures-react-frontend
 
 To start the the project:
+ NOTE : CHOOSE MASTER BRANCH TO ACCESS ALL CODES.
 1. clone ther repo first
 2. npm install
 3. npm start
