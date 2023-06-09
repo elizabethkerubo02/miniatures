@@ -15,7 +15,7 @@ function Home() {
     return (
         <div className="set-page">
             <div className="quote"><b>
-                <p><i>"Within the tiny realm of miniatures, worlds unfold, imagination takes flight, and the ordinary transforms into the extraordinary."</i></p></b>
+                <p><i>In a miniature realm, dreams bloom small, weaving enchantment's delicate allure.</i></p></b>
                 </div>
             <h3>Current Miniatures in your Collection:</h3>
             <div className="card-grid">{ miniatureCards }</div>
